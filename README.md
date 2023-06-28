@@ -11,7 +11,7 @@ The only issue is that unnecessary functions on the numpad like Home, End, PgUp,
 
 ![Numpad](https://github.com/DefaultIvanAdrey/NumPadOnNumRow/assets/125253072/11862789-445a-45a0-983a-18441a6417a3)
 
-Unless you modify the .ahk file and create a version that uses another key from your keyboard, then assign it into a NumLock function, which I'm hesitant to release because I tried it, and I've got to be honest that it is kinda wack, it is useless, because I have those functions already in my keyboard, which I believe you guys also have. Here is a picture of my 87-key keyboard layout:
+Unless you modify the .ahk file and create a version that uses another key from your keyboard, then assign it into a NumLock function, which I'm hesitant to release because I tried it, and I've got to be honest that it is kinda wack, it is useless, because I have those functions already in my keyboard, which I believe you guys also have. Here is a picture of my 87-key keyboard layout (CPSTech Ct87 Brown Switch):
 
 ![rgb keyboard](https://github.com/DefaultIvanAdrey/NumPadOnNumRow/assets/125253072/767d311b-2c56-4214-bac1-fc04bf3c4c99)
 
