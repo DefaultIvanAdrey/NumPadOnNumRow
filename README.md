@@ -5,7 +5,7 @@ Basically, this is an accessible number pad on the number row for keyboards buil
 
 Don't worry, you can still use the special characters assigned to the number row accessible by the **Left Shift** button and **Right Shift** button.
 
-The only downside is the unnecessary functions on the numpad like Home, End, PgUp, PgDn, ↑, ↓, →, and ←.
+The only issue is that unnecessary functions on the numpad like Home, End, PgUp, PgDn, ↑, ↓, →, and ← aren't accessible on the number row.
 
 ![Numpad](https://github.com/DefaultIvanAdrey/NumPadOnNumRow/assets/125253072/ff1a21f1-c62b-4b70-986c-ce165a9f3d39)
 
