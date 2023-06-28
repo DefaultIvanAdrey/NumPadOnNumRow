@@ -1,3 +1,5 @@
+Download here: https://github.com/DefaultIvanAdrey/NumPadOnNumRow/releases
+
 # NumPadOnNumRow
 Basically, this is an accessible number pad on the number row for keyboards built without a numpad.  Made for those who use alt symbols, laptop users, and mechanical keyboard users who want to use the numpad easily.  I made this using AHK 2.0.
 
