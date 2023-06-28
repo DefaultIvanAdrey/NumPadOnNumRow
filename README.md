@@ -13,4 +13,4 @@ Unless you modify the .ahk file and create a version that uses another key from 
 
 ![rgb keyboard](https://github.com/DefaultIvanAdrey/NumPadOnNumRow/assets/125253072/767d311b-2c56-4214-bac1-fc04bf3c4c99)
 
-**TL; DR:** This version is ideally perfect for the main purpose of creating alt symbols.
+**TL; DR:** v1.0.0 is ideally perfect for the main purpose of creating alt symbols.
