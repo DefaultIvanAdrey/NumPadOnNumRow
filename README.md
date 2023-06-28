@@ -7,7 +7,7 @@ Don't worry, you can still use the special characters assigned to the number row
 
 The only issue is that unnecessary functions on the numpad like Home, End, PgUp, PgDn, ↑, ↓, →, and ← aren't accessible on the number row.
 
-![Numpad](https://github.com/DefaultIvanAdrey/NumPadOnNumRow/assets/125253072/ff1a21f1-c62b-4b70-986c-ce165a9f3d39)
+![Numpad](https://github.com/DefaultIvanAdrey/NumPadOnNumRow/assets/125253072/11862789-445a-45a0-983a-18441a6417a3)
 
 Unless you modify the .ahk file and create a version that uses another key from your keyboard, then assign it into a NumLock function, which I'm hesitant to release because I tried it, and I've got to be honest that it is kinda wack, it is useless, because I have those functions already in my keyboard, which I believe you guys also have. Here is a picture of my 87-key keyboard layout:
 
