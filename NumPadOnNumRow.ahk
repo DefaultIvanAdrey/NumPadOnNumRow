@@ -1,4 +1,8 @@
-﻿SetNumLockState "AlwaysOn" 
+#SuspendExempt
+Pause::Suspend
+#SuspendExempt False
+
+SetNumLockState "AlwaysOn" 
 1::Numpad1 
 2::Numpad2 
 3::Numpad3 
@@ -20,3 +24,14 @@
 ~LShift & 3::SendText "#" 
 ~LShift & 2::SendText "@" 
 ~LShift & 1::SendText "!"
+
+~RShift & 0::SendText ")" 
+~RShift & 9::SendText "(" 
+~RShift & 8::SendText "*" 
+~RShift & 7::SendText "&" 
+~RShift & 6::SendText "^" 
+~RShift & 5::SendText "%" 
+~RShift & 4::SendText "$" 
+~RShift & 3::SendText "#" 
+~RShift & 2::SendText "@" 
+~RShift & 1::SendText "!"
